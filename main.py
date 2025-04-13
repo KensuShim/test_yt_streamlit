@@ -65,7 +65,7 @@ st.write('Int')
 #     list(range(1,11))
 # )
 
-'あなたが選んだのは',op,'です'
+# 'あなたが選んだのは',op,'です'
 
 left_c, right_c = st.columns(2)
 button = left_c.button('文字表示')
